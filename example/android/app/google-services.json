@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "559190155622",
+    "firebase_url": "https://webrtcc-7f800-default-rtdb.firebaseio.com",
+    "project_id": "webrtcc-7f800",
+    "storage_bucket": "webrtcc-7f800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559190155622:android:1f502ab29592b58581e8a7",
+        "android_client_info": {
+          "package_name": "com.deorwine.flutter_video_audio_webrtc_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OU5w7MSwacntvt04lG2OCyXcS66UTj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559190155622-njnnc5ai8lq1heh1v7v7c6nfu2usmk2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.flutterexplained.webrtcTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559190155622:android:6200a273b306de9f81e8a7",
+        "android_client_info": {
+          "package_name": "com.deorwine.video_audio_webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OU5w7MSwacntvt04lG2OCyXcS66UTj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559190155622-njnnc5ai8lq1heh1v7v7c6nfu2usmk2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.flutterexplained.webrtcTutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559190155622:android:f46d661746cbe17f81e8a7",
+        "android_client_info": {
+          "package_name": "dev.flutterexplained.webrtc_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OU5w7MSwacntvt04lG2OCyXcS66UTj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559190155622-ef33afeavtbcmdan4g7bqh5bl7tgqgbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559190155622-njnnc5ai8lq1heh1v7v7c6nfu2usmk2a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.flutterexplained.webrtcTutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
